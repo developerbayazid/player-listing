@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Mushfiqur Rahim",
+    "phone": "976-157-5076",
+    "country": "Bangladesh",
+    "salary": 150000,
+    "playerRole": "WK Batsman",
+    "image": "https://i.ibb.co/5WGZdnL/mushi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sakib Al Hasan",
+    "phone": "791-689-2722",
+    "country": "Bangladesh",
+    "salary": 140000,
+    "playerRole": "Batting All Rounder",
+    "image": "https://i.ibb.co/xs8pdPj/al-hasan.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Masrafee Bin Mortaza",
+    "phone": "713-376-4780",
+    "country": "Bangladesh",
+    "salary": 2030000,
+    "playerRole": "Bowling All Rounder",
+    "image": "https://i.ibb.co/VN5Nzz9/Mash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tamim Iqbal",
+    "phone": "607-731-9016",
+    "country": "Bangladesh",
+    "salary": 320000,
+    "playerRole": "Batsman",
+    "image": "https://i.ibb.co/x6xHtb2/tamim.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mahmudullah Riyad",
+    "phone": "179-780-9127",
+    "country": "Bangladesh",
+    "salary": 1230000,
+    "playerRole": "Batting All Rounder",
+    "image": "https://i.ibb.co/py37M4X/mahmudullah.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Babar Azam",
+    "phone": "833-179-7750",
+    "country": "Pakistan",
+    "salary": 71533,
+    "playerRole": "Batsman",
+    "image": "https://i.ibb.co/C9Ksxb1/babar-azam.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mohammad Rizwan",
+    "phone": "339-974-9526",
+    "country": "Pakistan",
+    "salary": 57376,
+    "playerRole": "Batsman",
+    "image": "https://i.ibb.co/CQff9H1/m-rizwan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chris Gayle",
+    "phone": "830-709-4576",
+    "country": "India",
+    "salary": 80222,
+    "playerRole": "Batsman",
+    "image": "https://i.ibb.co/mXXD7cZ/chris-gayle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mostafizur Rahman",
+    "phone": "337-327-9315",
+    "country": "Bangladesh",
+    "salary": 31505,
+    "playerRole": "Bowler",
+    "image": "https://i.ibb.co/PwscLL0/Mustafiz.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Taskin Ahmed",
+    "phone": "129-656-6472",
+    "country": "Bangladesh",
+    "salary": 91671,
+    "playerRole": "Bowler",
+    "image": "https://i.ibb.co/Qd4fvpG/taskin.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Rohit Sharma",
+    "phone": "891-680-7751",
+    "country": "India",
+    "salary": 73469,
+    "playerRole": "Batsman",
+    "image": "https://i.ibb.co/1XBdMfG/Rohit.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rashid Khan",
+    "phone": "238-372-6628",
+    "country": "Afghanistan",
+    "salary": 64996,
+    "playerRole": "Bowling All Rounder",
+    "image": "https://i.ibb.co/2cZkGyh/rashid-khan.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mujibur Rahman",
+    "phone": "506-529-6945",
+    "country": "Afghanistan",
+    "salary": 69832,
+    "playerRole": "Bowler",
+    "image": "https://i.ibb.co/mRbPqsD/mujibur-rahman.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Andre Russel",
+    "phone": "202-376-0952",
+    "country": "West Indies",
+    "salary": 23187,
+    "playerRole": "Batting All Rounder",
+    "image": "https://i.ibb.co/hWskCBX/andre-russel.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kieron Pollard",
+    "phone": "742-836-7844",
+    "country": "West Indies",
+    "salary": 70085,
+    "playerRole": "Batting All Rounder",
+    "image": "https://i.ibb.co/LJpQD9N/pollard.jpg"
+  }
+]

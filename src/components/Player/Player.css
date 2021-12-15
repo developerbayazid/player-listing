@@ -1,0 +1,22 @@
+.playerInfo {
+  background-color: aliceblue;
+  border: 1px solid #07b9ff;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 15px;
+}
+.playerInfo p {
+  font-size: 14px;
+  line-height: 12px;
+  font-weight: 400;
+}
+.playerInfo button {
+  background-color: #07b9ff;
+  border: 1px solid black;
+  width: 120px;
+  height: 25px;
+  border-radius: 15px;
+  margin-top: 5px;
+  cursor: pointer;
+}
